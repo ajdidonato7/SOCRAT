@@ -19,6 +19,10 @@ module.exports = class GetDataSocrDataConfig extends BaseModuleDataService
       url: 'datasets/fibr_3d_morph_features.csv'
       description: 'http://www.socr.umich.edu/projects/3d-cell-morphometry/data.html'
     ,
+      name: '3D Fibroblast Nuclear Surface Morphometry'
+      url: 'datasets/fibr_nuclei.csv'
+      description: 'http://www.socr.umich.edu/projects/3d-cell-morphometry/data.html'
+    ,
       name: '3D Fibroblast Surface Morphometry'
       url: 'datasets/fibr_c0c1_3dsurf_nokurt.csv'
       description: 'http://www.socr.umich.edu/projects/3d-cell-morphometry/data.html'
